@@ -1,0 +1,2 @@
+#! /bin/sh
+export PATH=${PATH}:/home/andrew/AndrewB203/workspace/node/bin
